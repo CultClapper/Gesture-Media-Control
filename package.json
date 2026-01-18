@@ -1,0 +1,21 @@
+{
+  "name": "gesture",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "C:\\Progra~1\\nodejs\\node.exe backend/server.js",
+    "dev": "C:\\Progra~1\\nodejs\\node.exe ./node_modules/nodemon/bin/nodemon.js backend/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "handtrackjs": "^0.1.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
